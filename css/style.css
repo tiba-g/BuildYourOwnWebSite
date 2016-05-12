@@ -1,0 +1,22 @@
+#content  {
+    float: left;
+    position: fixed;
+}
+
+#profile {
+    float: left;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+body {
+    font-family: Arial, SimSun;
+    font-size: 110%;
+}
