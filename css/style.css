@@ -1,22 +1,20 @@
-#content  {
-    float: left;
-    position: fixed;
-}
-
-#profile {
+#profile{
     float: left;
 }
-
-footer {
-    width: 100%;
+footer{
+    width:100%;
     text-align: center;
     position: absolute;
     bottom: 0;
     left: 0;
     right: 0;
 }
-
-body {
-    font-family: Arial, SimSun;
+body{
     font-size: 110%;
+    font-family: Arial, SimSun, serif;
+    margin: auto;
+}
+
+#contact_body{
+    text-align: center;
 }
